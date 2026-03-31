@@ -1,3 +1,10 @@
+cabbages
+meat
+tomatoes
+sweet potatoes
+cooking oil
+ketchup
+vinegar
 biscuits
 chocolate
 crisps
