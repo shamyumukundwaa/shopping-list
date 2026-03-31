@@ -1,3 +1,11 @@
+
+soaps
+detergents
+gloves
+Broom
+Mop
+Shower Gel
+
 cabbages
 meat
 tomatoes
@@ -10,3 +18,4 @@ chocolate
 crisps
 winnaz
 gorrilos
+ main
